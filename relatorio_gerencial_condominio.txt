@@ -1,0 +1,18 @@
+==================================================
+       RELATÓRIO GERENCIAL - SISTEMA CONDOMINIAL
+       Data de Emissão: 18/11/2026 20:44:26
+==================================================
+
+Total de Moradores Cadastrados: 3
+Total de Apartamentos Cadastrados: 1
+
+--- RELAÇÃO DE MORADORES ---
+- Nome: Lucas | CPF: Maria | Tel: 943567122
+- Nome: Daniel | CPF: 08456105210 | Tel: 984832119
+- Nome: Maria | CPF: 09498709120 | Tel: 987804532
+
+--- RELAÇÃO DE APARTAMENTOS ---
+- Apto 43, Bloco 1 | Responsável: Lucas
+
+==================================================
+FIM DO RELATÓRIO
